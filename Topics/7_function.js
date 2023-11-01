@@ -17,3 +17,7 @@ const hello = ()=>{
     console.log("hello world")
 }
 hello();
+
+//difference between norma function and arrow function
+//regular functions created using function declarations or expressions are ‘constructible’ and ‘callable’. Since regular functions are constructible, they can be called using the ‘new’ keyword. However, the arrow functions are only ‘callable’ and not constructible. Thus, we will get a run-time error on trying to construct a non-constructible arrow function using the new keyword.
+

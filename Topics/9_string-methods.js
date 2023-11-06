@@ -19,7 +19,7 @@ console.log(name4.slice(2)) //etan
 
 //how to replace a string char in javascript
 let name5 = "chetan salunke"
-console.log(name5.replace("chetan","adesh"))
+console.log(name5.replace("chetan","adesh")) //adesh salunke
 
 //how to concat a string in javascript
 let name6 = "chetan"
@@ -29,6 +29,8 @@ console.log(name7.concat(" is a brother of ",name6 )) //adesh is a brother of ch
 //how to trim a string
 let name8 = "      chetan      "
 console.log(name8.trim())  //it will remove all the spaces
+
+
 
 
 

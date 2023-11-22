@@ -10,6 +10,7 @@ console.log(student); // normal print
 
 console.log(student.cgpa) // specific key
 
+//add new things in objects
 student.age = student.age+1;
 student.name = student.name+"salunke";
 console.log(student.age)

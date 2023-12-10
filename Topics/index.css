@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: aqua;
+    padding: 20px;
+}
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+    font-size: medium;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+#card1{
+    background-color: rebeccapurple;
+    height: 200px;
+    width: 250px;
+}
+.card2{
+    background-color: rebeccapurple;
+    height: 200px;
+    width: 250px;
+}
